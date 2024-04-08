@@ -1,1 +1,1 @@
-ZMIANA
+print("Hello world!")
